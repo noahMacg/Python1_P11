@@ -1,0 +1,5 @@
+100.200, 123.456, Main Campus 
+120.33, 142.345, Montoya 
+153.23, 322.345, Rio Rancho 
+133.23, 143.345, STEMULUS Center 
+153.42, 122.345, ATC 
