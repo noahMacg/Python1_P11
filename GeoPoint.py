@@ -39,4 +39,4 @@ class GeoPoint:
 
     # Print method
     def __str__(self):
-        return f"{self.lat:>8.2f} {self.long:>13.2f} {' '*4} {self.description}"
+        return f"{self.lat:>8.2f} {self.long:>13.2f} {' '*8} {self.description}"
